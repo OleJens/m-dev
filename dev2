@@ -1,3 +1,8 @@
 // Console comment
 console.log("Merge dev")
 console.log("Merge dev3")
+
+function main()
+return null;
+
+main()
